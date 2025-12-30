@@ -170,3 +170,8 @@ This project is part of my continuous learning journey, where I apply real-world
 🔹 Passionate about clean UI, scalable code, and performance  
 🔹 Actively building projects and improving my full-stack skills  
 🔹 Always learning and experimenting with new web technologies
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-e8ab61?style=for-the-badge&logo=vercel&logoColor=white)](https://muaddhalsway.github.io/MUSTUDIOLAB-Portfilio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muaddh-alsway/)
+
+
